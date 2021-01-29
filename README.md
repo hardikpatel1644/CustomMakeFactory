@@ -108,7 +108,13 @@ $factory->define(Patient::class, function (Faker $faker) {
 		
     ];
 });
+--------------------------------------------------------------------------------------------
+References : 
 
+- https://kaloraat.com/articles/generate-fake-data-using-faker-and-factory-in-laravel
+- https://medium.com/dev-genius/laravel-8-x-database-seeders-fakers-and-factories-7cb759918124
+- https://blog.quickadminpanel.com/list-of-21-artisan-make-commands-with-parameters/
+- https://laravel.com/docs/8.x/providers
 
 
 
